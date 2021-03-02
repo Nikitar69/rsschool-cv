@@ -24,6 +24,7 @@ Future roles and responsibilities may vary, I will adapt my skills to your needs
     * Admitting mistakes & patience
     * Empathy
 ## Sample of code from recent courses
+
 ```js
   // Return an array
 function fizzbuzz(n){
@@ -41,6 +42,7 @@ function fizzbuzz(n){
   return fb
 }
 ```
+
 ```html
     <div class="product-map clearfix">
       <div class="column-left">  
@@ -71,6 +73,7 @@ function fizzbuzz(n){
           бритья, шампунь. Набор также может стать отличным подарком.</p>
           
 ```
+
 ## Work experience
 ### Courses
  1. Belhard Academy, js course
