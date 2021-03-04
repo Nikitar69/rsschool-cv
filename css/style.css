@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  width: 1000px;
+  margin: 0 auto;
+  font-family: roboto;
+  line-height: 1.5;
+}
+
+.main-container {
+  display: flex;
+  flex: 1 0 auto;
+}
+.short-info {
+  color: lightgray;
+  background-color: #1c2e4a;
+}
+.short-info a {
+  color: lightgray;
+}
+.short-info img {
+  border-radius: 50%;
+}
+
+.footer {
+  display: flex;
+  flex: 0 0 auto;
+}
+.copy ul li {
+  display: inline;
+  padding: 15px;
+}
