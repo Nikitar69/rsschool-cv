@@ -1,2 +1,2 @@
-# rsschool-cv
-https://nikitar69.github.io/rsschool-cv/cv
+Hello there. 
+This is link to my CV: https://nikitar69.github.io/rsschool-cv/cv
